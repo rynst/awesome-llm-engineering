@@ -21,6 +21,13 @@ Includes, but is not limited to articles, documentation, papers etc.
 
 ...
 
+## Papers
+- [PromptSource](https://arxiv.org/pdf/2202.01279.pdf)
+- [Survey of Prompting Methods](https://arxiv.org/pdf/2107.13586.pdf)
+- [Prefix Tuning: Optimizing Continuous Prompts for Generation](https://aclanthology.org/2021.acl-long.353.pdf)
+
+...
+
 ## Tools
 
 - [ChatGPT](https://openai.com/blog/chatgpt/) - Chatbot developed by OpenAI
