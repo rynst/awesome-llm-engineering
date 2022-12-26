@@ -1,9 +1,11 @@
 <img src="icon.png" align="right" />
 
-# Awesome PROMPT ENGINEERING [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list for PROMPT ENGINEERING
+# Awesome LLM ENGINEERING [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+> A curated list for Large Language Model Engineering (on the application layer)
 
 Includes, but is not limited to articles, documentation, papers etc.
+
+# Prompt Engineering
 
 ## Articles
 
@@ -36,7 +38,9 @@ Includes, but is not limited to articles, documentation, papers etc.
 
 ...
 
-## Fine Tuning 
+# Fine Tuning
+
+## Fine Tuning Docs
 - [HuggingFace Fine Tuning Docs](https://huggingface.co/docs/transformers/training)
 - [OpenAI Fine Tuning Docs](https://beta.openai.com/docs/guides/fine-tuning)
 
