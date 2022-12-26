@@ -34,6 +34,16 @@ Includes, but is not limited to articles, documentation, papers etc.
 - [GPT-3 A.I. Coding Assistant](https://marketplace.visualstudio.com/items?itemName=Arrendy.gpt3-vscode-extension) - VSCode extension utilizing GPT3
 - [ChatGPT Helper](https://marketplace.visualstudio.com/items?itemName=kiranshah.chatgpt-helper) - VSCode extension utilizing GPT3
 
+...
+
+## Fine Tuning 
+- [HuggingFace Fine Tuning Docs](https://huggingface.co/docs/transformers/training)
+- [OpenAI Fine Tuning Docs](https://beta.openai.com/docs/guides/fine-tuning)
+
+...
+
+## Fine Tuning Articles
+- [Sam Altman on AI for the next era](https://greylock.com/greymatter/sam-altman-ai-for-the-next-era/)
 
 ## Contribute
 
