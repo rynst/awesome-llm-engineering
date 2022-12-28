@@ -11,7 +11,6 @@ Includes, but is not limited to articles, documentation, papers etc.
 - [Natural Language Processing with Transformers, Revised Edition](https://www.amazon.com/Natural-Language-Processing-Transformers-Revised/dp/1098136799/)
 - [GPT-3: Building Innovative NLP Products Using Large Language Models](https://www.amazon.com/GPT-3-Building-Innovative-Products-Language/dp/1098113624)
 
-...
 
 ## Tools
 
@@ -19,7 +18,6 @@ Includes, but is not limited to articles, documentation, papers etc.
 - [GPT-3 A.I. Coding Assistant](https://marketplace.visualstudio.com/items?itemName=Arrendy.gpt3-vscode-extension) - VSCode extension utilizing GPT3
 - [ChatGPT Helper](https://marketplace.visualstudio.com/items?itemName=kiranshah.chatgpt-helper) - VSCode extension utilizing GPT3
 
-...
 
 # Fine Tuning
 
@@ -27,7 +25,6 @@ Includes, but is not limited to articles, documentation, papers etc.
 - [HuggingFace Fine Tuning Docs](https://huggingface.co/docs/transformers/training)
 - [OpenAI Fine Tuning Docs](https://beta.openai.com/docs/guides/fine-tuning)
 
-...
 
 ## Fine Tuning Articles
 - [Sam Altman on AI for the next era](https://greylock.com/greymatter/sam-altman-ai-for-the-next-era/)
@@ -37,7 +34,6 @@ Includes, but is not limited to articles, documentation, papers etc.
 - [Adversarial Fine-tuning for Backdoor Defense](https://arxiv.org/pdf/2202.06312v1.pdf)
 - [Fine Tuning...Mitigate Backdoor Attacks](https://www.researchgate.net/publication/366423678_Fine-Tuning_Is_All_You_Need_to_Mitigate_Backdoor_Attacks)
 
-...
 
 # Prompt Engineering
 
@@ -50,7 +46,6 @@ Includes, but is not limited to articles, documentation, papers etc.
 - [Prompt Engineering in GPT3](https://www.analyticsvidhya.com/blog/2022/05/prompt-engineering-in-gpt-3/) - Prompting GPT3
 - [OpenAI GPT3 and Prompt Engineering](https://medium.com/swlh/openai-gpt-3-and-prompt-engineering-dcdc2c5fcd29) - Deep dive into the “prompts”
 
-...
 
 ## Papers
 - [PromptSource](https://arxiv.org/pdf/2202.01279.pdf)
