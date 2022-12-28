@@ -49,6 +49,11 @@ Includes, but is not limited to articles, documentation, papers etc.
 ## Fine Tuning Articles
 - [Sam Altman on AI for the next era](https://greylock.com/greymatter/sam-altman-ai-for-the-next-era/)
 
+## Security Related Fine Tuning Papers
+- [Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models](https://arxiv.org/pdf/2210.09545.pdf)
+- [Adversarial Fine-tuning for Backdoor Defense](https://arxiv.org/pdf/2202.06312v1.pdf)
+- [Fine Tuning...Mitigate Backdoor Attacks](https://www.researchgate.net/publication/366423678_Fine-Tuning_Is_All_You_Need_to_Mitigate_Backdoor_Attacks)
+
 ## Contribute
 
 Contributions are always welcome!
