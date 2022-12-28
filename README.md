@@ -5,7 +5,7 @@
 
 Includes, but is not limited to articles, documentation, papers etc.
 
-# NLP
+# 📚 NLP
 
 ## Books
 - [Natural Language Processing with Transformers, Revised Edition](https://www.amazon.com/Natural-Language-Processing-Transformers-Revised/dp/1098136799/)
@@ -19,7 +19,7 @@ Includes, but is not limited to articles, documentation, papers etc.
 - [ChatGPT Helper](https://marketplace.visualstudio.com/items?itemName=kiranshah.chatgpt-helper) - VSCode extension utilizing GPT3
 
 
-# Fine Tuning
+# 📚 Fine Tuning
 
 ## Fine Tuning Docs
 - [HuggingFace Fine Tuning Docs](https://huggingface.co/docs/transformers/training)
@@ -35,7 +35,7 @@ Includes, but is not limited to articles, documentation, papers etc.
 - [Fine Tuning...Mitigate Backdoor Attacks](https://www.researchgate.net/publication/366423678_Fine-Tuning_Is_All_You_Need_to_Mitigate_Backdoor_Attacks)
 
 
-# Prompt Engineering
+# 📚 Prompt Engineering
 
 
 ## Articles
