@@ -45,6 +45,7 @@ Includes, but is not limited to articles, documentation, papers etc.
 - [Prompt Engineering Tips and Tricks](https://blog.andrewcantino.com/blog/2021/04/21/prompt-engineering-tips-and-tricks/) - What Prompt Engineering is, why it matters, and some tips and tricks to help you do it well
 - [Prompt Engineering in GPT3](https://www.analyticsvidhya.com/blog/2022/05/prompt-engineering-in-gpt-3/) - Prompting GPT3
 - [OpenAI GPT3 and Prompt Engineering](https://medium.com/swlh/openai-gpt-3-and-prompt-engineering-dcdc2c5fcd29) - Deep dive into the “prompts”
+- [Prompt Engineering Approaches](https://arize.com/blog-course/llmops-operationalizing-llms-at-scale/#prompt-engineering) - Covers few-shot, instructor-based, chain-of-thought, automatic prompting, and prompt templates.
 
 
 ## Papers
